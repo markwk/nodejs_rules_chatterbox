@@ -1,0 +1,6 @@
+name = Nodejs Rules Chatterbox
+description = Integration of Rules with Nodejs Message channel
+package = Nodejs
+version = VERSION
+core = 7.x
+dependencies[] = nodejs
